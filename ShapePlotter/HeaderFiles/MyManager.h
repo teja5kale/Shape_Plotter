@@ -15,4 +15,5 @@ public:
     void processUserInput();
 };
 
-#endif // MYMANAGER_H
+#endif //  MYMANAGER_H
+ 
